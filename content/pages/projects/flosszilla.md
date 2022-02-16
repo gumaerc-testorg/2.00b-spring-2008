@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 title: FlossZilla
 uid: 3d01aa12-2a1c-1d9f-61a5-eef69d2142f8

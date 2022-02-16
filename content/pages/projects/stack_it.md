@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 title: Stack-It
 uid: a0d0682d-a1ce-7166-e02d-ea1ac63bd84b

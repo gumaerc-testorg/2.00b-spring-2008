@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 title: Chanimals
 uid: b8c27d01-7f3f-a085-4dea-a817443e1d77

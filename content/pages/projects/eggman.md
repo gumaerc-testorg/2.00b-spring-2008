@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 title: Eggman and Friends
 uid: 7bdd61b5-b2d1-6cca-1b33-e1dfc88954c6

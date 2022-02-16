@@ -4,12 +4,17 @@ description: 'Image accompanying student project: Holy rare earth magnets, Batma
   Have fun defying gravity while organizing your bathroom.
 
   Green Team: Andi Greb, Andrew Greenhut, Chris Grossman, Heather Felix, Lauren Nowierski.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-00b-toy-product-design-spring-2008/f2a18c896f4f6301b1f63f9d4e95192e_batcave.jpg
+file: /media/courses/2-00b-toy-product-design-spring-2008/f2a18c896f4f6301b1f63f9d4e95192e_batcave.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: batcave.jpg
 uid: f2a18c89-6f4f-6301-b1f6-3f9d4e95192e

@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 title: Pirate Pals
 uid: 111bd659-a4e6-bb4e-fdde-33b7b3d10613

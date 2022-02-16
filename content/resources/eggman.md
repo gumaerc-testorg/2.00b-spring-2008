@@ -8,12 +8,17 @@ description: 'Image accompanying student project: Eggman and Friends. Eggman and
 
   Design Team: Mindy Eng, Sarah Shivers, Chaitra Manjunatha, Matthew Bieniosek, Rebecca
   Smith and advisor Terry Gaige.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-00b-toy-product-design-spring-2008/19bafc3d710d97b05a460bbc584ac6e6_eggman.jpg
+file: /media/courses/2-00b-toy-product-design-spring-2008/19bafc3d710d97b05a460bbc584ac6e6_eggman.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: eggman.jpg
 uid: 19bafc3d-710d-97b0-5a46-0bbc584ac6e6

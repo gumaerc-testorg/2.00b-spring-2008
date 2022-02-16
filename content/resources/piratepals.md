@@ -7,12 +7,17 @@ description: 'Image accompanying student project: Pirate Pals. Pirate Pals are a
 
   Design Team: Cynthia Walker, Julie Arsenault, Dan Barclay, Jonathan Hsieh and advisor
   Mika Tomczak.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/2-00b-toy-product-design-spring-2008/a63fc1817e24a98875e1fe2bbe1feb4d_piratepals.jpg
+file: /media/courses/2-00b-toy-product-design-spring-2008/a63fc1817e24a98875e1fe2bbe1feb4d_piratepals.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Projects
+ocw_type: OCWImage
+parent_title: Projects
+parent_type: CourseSection
 resourcetype: Image
 title: piratepals.jpg
 uid: a63fc181-7e24-a988-75e1-fe2bbe1feb4d
