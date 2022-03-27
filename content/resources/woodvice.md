@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: WoodVice.jpg
 uid: 69da6531-9c11-f32f-f3a9-772b66280859

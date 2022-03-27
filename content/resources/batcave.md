@@ -15,6 +15,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: batcave.jpg
 uid: f2a18c89-6f4f-6301-b1f6-3f9d4e95192e

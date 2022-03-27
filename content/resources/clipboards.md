@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: ClipBoards.jpg
 uid: cc7778d7-25a6-b2c0-a82c-078dce6bd782

@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: WoodAnimal.jpg
 uid: 03fa4a41-b0d8-5cc7-12b1-4dbde7103cc9

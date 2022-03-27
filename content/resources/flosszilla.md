@@ -16,6 +16,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: flosszilla.jpg
 uid: 88f349f4-8d78-29fb-5e3a-d089461b06db

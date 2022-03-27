@@ -18,6 +18,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 690b9956-8c8d-b91b-5245-a6e3ec725412
 resourcetype: Image
 title: piratepals.jpg
 uid: a63fc181-7e24-a988-75e1-fe2bbe1feb4d
