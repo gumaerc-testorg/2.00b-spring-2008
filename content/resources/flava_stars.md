@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-00b-toy-product-design-spring-2008/edc3eb9b746903590883d70edf55468d_flava_stars.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/edc3eb9b746903590883d70edf55468d_flava_stars.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

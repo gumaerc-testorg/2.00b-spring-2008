@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
-file: /media/courses/2-00b-toy-product-design-spring-2008/eb1e6cac49119c5e8250b8b41f7467a9_GameBoard.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/eb1e6cac49119c5e8250b8b41f7467a9_GameBoard.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -17,3 +17,5 @@ resourcetype: Image
 title: GameBoard.jpg
 uid: eb1e6cac-4911-9c5e-8250-b8b41f7467a9
 ---
+Thumbnail image accompanying student project from 2008.
+

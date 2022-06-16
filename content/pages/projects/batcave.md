@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,11 +11,11 @@ title: The BatCave
 uid: a8594227-ff84-c9cf-4512-4111e2ddfbb0
 ---
 
-[Projects]({{< baseurl >}}/pages/projects)
+{{% resource_link 690b9956-8c8d-b91b-5245-a6e3ec725412 "Projects" %}}
 
-Red Team: [R2D2ooth]({{< baseurl >}}/pages/projects/r2d2ooth) Blue Team: [Flava-Rama]({{< baseurl >}}/pages/projects/flavarama) Yellow Team: [HP Magical Brush]({{< baseurl >}}/pages/projects/hp) Green Team: The BatCave Purple Team: [FlossZilla]({{< baseurl >}}/pages/projects/flosszilla)
+Red Team: {{% resource_link e3e27187-dcf0-6942-6600-008fd8131f22 "R2D2ooth" %}} Blue Team: {{% resource_link 4f534e0d-4171-d93e-6014-b15ef2d22a9f "Flava-Rama" %}} Yellow Team: {{% resource_link 5aa4ce93-130c-fe53-ee18-a4f687a688b4 "HP Magical Brush" %}} Green Team: The BatCave Purple Team: {{% resource_link 3d01aa12-2a1c-1d9f-61a5-eef69d2142f8 "FlossZilla" %}}
 
-![The BatCave.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/batcave.jpg)
+{{< resource "f2a18c89-6f4f-6301-b1f6-3f9d4e95192e" >}}
 
 Holy rare earth magnets, Batman! Have fun defying gravity while organizing your bathroom.
 

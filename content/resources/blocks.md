@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
-file: /media/courses/2-00b-toy-product-design-spring-2008/d74ea55b789f07fa1e4a92fa388d1b99_Blocks.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/d74ea55b789f07fa1e4a92fa388d1b99_Blocks.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
@@ -17,3 +17,5 @@ resourcetype: Image
 title: Blocks.jpg
 uid: d74ea55b-789f-07fa-1e4a-92fa388d1b99
 ---
+Thumbnail image accompanying student project from 2008.
+

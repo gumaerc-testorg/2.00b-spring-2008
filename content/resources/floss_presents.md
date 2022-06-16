@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-00b-toy-product-design-spring-2008/bbdaafd8a479b764fef94c7bb4d96170_floss_presents.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/bbdaafd8a479b764fef94c7bb4d96170_floss_presents.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

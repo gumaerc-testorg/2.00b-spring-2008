@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/2-00b-toy-product-design-spring-2008/c39ace7a1ca0fe119c3c7b7c87a3667e_lights.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/c39ace7a1ca0fe119c3c7b7c87a3667e_lights.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

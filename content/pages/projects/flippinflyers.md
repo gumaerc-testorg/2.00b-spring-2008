@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -10,17 +11,17 @@ title: Flippin' Flyers
 uid: 5637d788-ec39-f574-e191-1f5f286498ed
 ---
 
-[Projects]({{< baseurl >}}/pages/projects)
+{{% resource_link 690b9956-8c8d-b91b-5245-a6e3ec725412 "Projects" %}}
 
-[Eggman and Friends]({{< baseurl >}}/pages/projects/eggman)  
-[Pirate Pals]({{< baseurl >}}/pages/projects/piratepals)  
-[Chanimals]({{< baseurl >}}/pages/projects/chanimals)  
+{{% resource_link 7bdd61b5-b2d1-6cca-1b33-e1dfc88954c6 "Eggman and Friends" %}}  
+{{% resource_link 111bd659-a4e6-bb4e-fdde-33b7b3d10613 "Pirate Pals" %}}  
+{{% resource_link b8c27d01-7f3f-a085-4dea-a817443e1d77 "Chanimals" %}}  
 Flippin' Flyers  
-[Stack-It]({{< baseurl >}}/pages/projects/stack_it)  
-[Roli Boli]({{< baseurl >}}/pages/projects/roliboli)  
-[Magnimals]({{< baseurl >}}/pages/projects/magnimals)
+{{% resource_link a0d0682d-a1ce-7166-e02d-ea1ac63bd84b "Stack-It" %}}  
+{{% resource_link 026d512b-cacd-31e3-1f0b-ae2115d8ab1c "Roli Boli" %}}  
+{{% resource_link 5dec2193-42ab-d378-02a0-e288ac445eba "Magnimals" %}}
 
-![Flippin' flyers.](/courses/mechanical-engineering/2-00b-toy-product-design-spring-2008/projects/flippinflyers.jpg)
+{{< resource "9c1fe386-4830-73db-25f4-eda41cc2dfa1" >}}
 
 Flippin' Flyers is an elastic-propelled foam airplane kit. It contains an assortment of differnent shaped and colored wings and bodies that allow for customization and experimentation. The Flippin' Flyer components are stored in an airplane hanger travel case.
 
