@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: WoodVice.jpg
 uid: 69da6531-9c11-f32f-f3a9-772b66280859
 ---
 Thumbnail image accompanying student project from 2008.
-

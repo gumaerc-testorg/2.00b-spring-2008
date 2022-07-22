@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: magnimals_icon2.jpg
 uid: 74a51785-a9c6-b06e-d56a-a1fd55089acd
 ---
 Thumbnail image accompanying student project from 2007.
-

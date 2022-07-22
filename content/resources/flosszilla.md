@@ -13,6 +13,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -23,4 +24,3 @@ uid: 88f349f4-8d78-29fb-5e3a-d089461b06db
 ---
 Image accompanying student project: FlossZilla. A multi-purpose dinosaur that dispenses toothpaste, holds your toothbrush and encourages you to floss. The floss is dispensed through the tail of the dinosaur.
 Purple Team: Brian Hack, Chris Casiano, Jennifer Moore, Jean Shon, Somin Lee.
-

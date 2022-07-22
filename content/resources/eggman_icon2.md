@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: eggman_icon2.jpg
 uid: 2f801eed-bb31-30f5-f9e1-1967c33e9079
 ---
 Thumbnail image accompanying student project from 2007.
-

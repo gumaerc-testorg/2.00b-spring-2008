@@ -12,6 +12,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -22,4 +23,3 @@ uid: f2a18c89-6f4f-6301-b1f6-3f9d4e95192e
 ---
 Image accompanying student project: Holy rare earth magnets, Batman! Have fun defying gravity while organizing your bathroom.
 Green Team: Andi Greb, Andrew Greenhut, Chris Grossman, Heather Felix, Lauren Nowierski.
-

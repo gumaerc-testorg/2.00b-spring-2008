@@ -14,6 +14,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -24,4 +25,3 @@ uid: a85a873e-017f-2e6e-3868-7ca5ea2162e8
 ---
 Image accompanying student project: Magnimals. Magnimals are a set of interchangable animal parts. All parts have embedded magnet connections and can be connected in many different orientations.
 Design Team: Lucas Hernandez-Mena, Christina Wright, Tiffany Tseng, Amy Magnuson, Diane Rak and advisor David Wallace.
-

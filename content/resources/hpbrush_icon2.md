@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: hpbrush_icon2.jpg
 uid: 81c9da00-0c7b-d38a-badb-396737301d89
 ---
 Thumbnail image accompanying student project from 2006.
-

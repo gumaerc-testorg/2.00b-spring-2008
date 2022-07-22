@@ -16,6 +16,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -26,4 +27,3 @@ uid: 0de5ce63-c983-3d57-c4a9-26d76d0b6476
 ---
 Image accompanying student project: Stack-It. Stack-It is a game of making the tallest structure using six differently shaped playing pieces. Players alternate placing pieces on the stand by rolling a die. All playing pieces are made from four lengths of square cross-section wooden dowel. The game is stored in a collapsible plastic tube.
 Design Team: Lucas Hernandez-Mena, Christina Wright, Tiffany Tseng, Amy Magnuson, Diane Rak and advisor David Wallace.
-

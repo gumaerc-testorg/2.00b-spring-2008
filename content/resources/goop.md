@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: Goop.jpg
 uid: a988b598-5a02-9a45-62ba-668843faabd4
 ---
 Thumbnail image accompanying student project from 2008.
-

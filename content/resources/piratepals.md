@@ -15,6 +15,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -25,4 +26,3 @@ uid: a63fc181-7e24-a988-75e1-fe2bbe1feb4d
 ---
 Image accompanying student project: Pirate Pals. Pirate Pals are a collection of sea-creature pirate friends with foam appendage inserts. A storybook of adventure tales accompanies the Pirate Pals. The Pirate Pals can be used both as a fantasy toy to act out adventures and as a construction toy in mixing appendages.
 Design Team: Cynthia Walker, Julie Arsenault, Dan Barclay, Jonathan Hsieh and advisor Mika Tomczak.
-

@@ -16,6 +16,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -26,4 +27,3 @@ uid: 60488647-2792-375e-bd37-c89ea00c85ce
 ---
 Image accompanying student project: Roli Boli. Roli Boli are happy spherical creatures that are passed between players through flexible colorful tubes. The tubes are designed to be held around the back of the head so as the Roli passes through the tube, the player can hear a fun buzzing ringing sound. The lengths of tube are joined with foam joints.
 Design Team: Jennifer Sanchez, Nicolina Akraboff, Marty Skelton, Leslie Nachbar and adviser James Penn.
-

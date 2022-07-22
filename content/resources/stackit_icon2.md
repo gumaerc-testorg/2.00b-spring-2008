@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: stackit_icon2.jpg
 uid: 744808dd-b594-944b-5c33-38897ecc55df
 ---
 Thumbnail image accompanying student project from 2007.
-

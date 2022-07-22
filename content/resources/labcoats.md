@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: labcoats.jpg
 uid: 2634645e-fd91-b0f2-b80d-b5b2c7363b5f
 ---
 Thumbnail image accompanying student project from 2008.
-

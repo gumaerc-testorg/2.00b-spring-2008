@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: pirates_icon2.jpg
 uid: 5fd2fb55-7040-fe39-b4c0-68adc1ee0355
 ---
 Thumbnail image accompanying student project from 2007.
-

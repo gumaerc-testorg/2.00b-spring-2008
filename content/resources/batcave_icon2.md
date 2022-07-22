@@ -9,6 +9,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: batcave_icon2.jpg
 uid: a93ac681-f85f-acf6-05f6-20df9a6747df
 ---
 Thumbnail image accompanying student project from 2006.
-

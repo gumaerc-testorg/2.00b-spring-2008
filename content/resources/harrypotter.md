@@ -13,6 +13,7 @@ image_metadata:
   image-alt: ''
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Projects
 parent_type: CourseSection
@@ -23,4 +24,3 @@ uid: dc85c085-caa3-8b64-c5c8-c7b2a0cf0a90
 ---
 Image accompanying student project: Harry Potter's Magical Toothbrush. Harry Potter's Magical Toothbrush levitates before your eyes when placed inside its holder. The base illuminates when the toothbrush is near.
 Yellow Team: Dave Held, Ellann Cohen, Qinyuan Liu, Rebecca Smith, Ricky Diaz.
-
