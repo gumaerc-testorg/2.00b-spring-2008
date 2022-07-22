@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The related resources section provides a collection of links of interest
+  and links related to toy product design in the media.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 557eed89-1dc8-a975-6e2f-3d2fa9d83610
 ---

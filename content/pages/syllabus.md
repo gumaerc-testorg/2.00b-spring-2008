@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section provides the course overview, and information about
+  required readings, suggested readings, instructors, grading, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 7bc7f11b-10b0-de6c-34a7-8f4de6231944
 ---
