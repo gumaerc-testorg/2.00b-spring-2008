@@ -6,6 +6,7 @@ description: 'Image accompanying student project: Harry Potter''s Magical Toothb
 
   Yellow Team: Dave Held, Ellann Cohen, Qinyuan Liu, Rebecca Smith, Ricky Diaz.'
 file: /courses/2-00b-toy-product-design-spring-2008/dc85c085caa38b64c5c8c7b2a0cf0a90_harrypotter.jpg
+file_size: 50288
 file_type: image/jpeg
 image_metadata:
   caption: ''

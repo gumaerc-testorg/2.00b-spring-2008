@@ -6,6 +6,7 @@ description: 'Image accompanying student project: Flava-Rama. A fun toothpaste d
 
   Blue Team: Karlen Ruleman, Mark Cote, Michelle Lustrino, Jiang Wei Zhu.'
 file: /courses/2-00b-toy-product-design-spring-2008/0d967e8ef2931867556a00002d878845_flavarama.jpg
+file_size: 50109
 file_type: image/jpeg
 image_metadata:
   caption: ''

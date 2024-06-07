@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-00b-toy-product-design-spring-2008/f3f681c31b655c79f52cbda9165f4099_floss_banner.jpg
+file_size: 22980
 file_type: image/jpeg
 image_metadata:
   caption: ''
