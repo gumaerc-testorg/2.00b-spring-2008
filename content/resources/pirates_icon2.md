@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying student project from 2007.
 file: /courses/2-00b-toy-product-design-spring-2008/5fd2fb557040fe39b4c068adc1ee0355_pirates_icon2.jpg
+file_size: 2537
 file_type: image/jpeg
 image_metadata:
   caption: ''

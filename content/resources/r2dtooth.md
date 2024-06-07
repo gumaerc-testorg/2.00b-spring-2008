@@ -7,6 +7,7 @@ description: 'Image accompanying student project: R2D2ooth. R2D2ooth is the ulti
   Red Team: Harry Lichter, Mario Bollini, Megan Roberts, Roberto Velazquez, Rebecca
   Romatoski, Tammy Tasoff.'
 file: /courses/2-00b-toy-product-design-spring-2008/c9fc5fdc7fb0772ce935c5f73e537736_r2dtooth.jpg
+file_size: 39304
 file_type: image/jpeg
 image_metadata:
   caption: ''

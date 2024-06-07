@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying student project from 2007.
 file: /courses/2-00b-toy-product-design-spring-2008/756b59e6fe2209bd7a93f84b350966c1_roliboli_icon2.jpg
+file_size: 1689
 file_type: image/jpeg
 image_metadata:
   caption: ''
