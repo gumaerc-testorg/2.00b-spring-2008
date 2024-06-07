@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying student project from 2006.
 file: /courses/2-00b-toy-product-design-spring-2008/113eaaa20b6b041ff8c06ba01fb846b1_flavarama_icon2.jpg
+file_size: 28476
 file_type: image/jpeg
 image_metadata:
   caption: ''

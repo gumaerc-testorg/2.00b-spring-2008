@@ -2,6 +2,7 @@
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
 file: /courses/2-00b-toy-product-design-spring-2008/f4bf951ad2a0110bc29e1a2b6d329af2_Caution.jpg
+file_size: 7145
 file_type: image/jpeg
 image_metadata:
   caption: ''

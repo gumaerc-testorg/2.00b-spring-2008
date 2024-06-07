@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-00b-toy-product-design-spring-2008/d9f039545ab1ab092bfcc0150af56aba_green_flow.jpg
+file_size: 88933
 file_type: image/jpeg
 image_metadata:
   caption: ''

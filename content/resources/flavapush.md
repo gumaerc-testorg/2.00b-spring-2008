@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/2-00b-toy-product-design-spring-2008/9fe75b99ec447c442826f8f1e3cf339e_flavapush.jpg
+file_size: 39618
 file_type: image/jpeg
 image_metadata:
   caption: ''
