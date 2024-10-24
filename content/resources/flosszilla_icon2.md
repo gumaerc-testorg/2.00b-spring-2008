@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2006.
-file: /courses/2-00b-toy-product-design-spring-2008/2e05406ca77c23a2e3144c4e72ecf03c_flosszilla_icon2.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/2e05406ca77c23a2e3144c4e72ecf03c_flosszilla_icon2.jpg
 file_size: 27699
 file_type: image/jpeg
 image_metadata:
