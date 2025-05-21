@@ -8,7 +8,7 @@ description: 'Image accompanying student project: Eggman and Friends. Eggman and
 
   Design Team: Mindy Eng, Sarah Shivers, Chaitra Manjunatha, Matthew Bieniosek, Rebecca
   Smith and advisor Terry Gaige.'
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/19bafc3d710d97b05a460bbc584ac6e6_eggman.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/19bafc3d710d97b05a460bbc584ac6e6_eggman.jpg
 file_size: 98044
 file_type: image/jpeg
 image_metadata:

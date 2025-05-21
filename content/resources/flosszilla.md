@@ -5,7 +5,7 @@ description: 'Image accompanying student project: FlossZilla. A multi-purpose di
   floss is dispensed through the tail of the dinosaur.
 
   Purple Team: Brian Hack, Chris Casiano, Jennifer Moore, Jean Shon, Somin Lee.'
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/88f349f48d7829fb5e3ad089461b06db_flosszilla.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/88f349f48d7829fb5e3ad089461b06db_flosszilla.jpg
 file_size: 51969
 file_type: image/jpeg
 image_metadata:

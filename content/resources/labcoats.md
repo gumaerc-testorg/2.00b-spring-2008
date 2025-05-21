@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/2634645efd91b0f2b80db5b2c7363b5f_labcoats.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/2634645efd91b0f2b80db5b2c7363b5f_labcoats.jpg
 file_size: 8230
 file_type: image/jpeg
 image_metadata:
