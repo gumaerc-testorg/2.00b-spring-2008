@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/a988b5985a029a4562ba668843faabd4_Goop.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/a988b5985a029a4562ba668843faabd4_Goop.jpg
 file_size: 10291
 file_type: image/jpeg
 image_metadata:

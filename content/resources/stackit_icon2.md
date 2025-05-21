@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2007.
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/744808ddb594944b5c3338897ecc55df_stackit_icon2.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/744808ddb594944b5c3338897ecc55df_stackit_icon2.jpg
 file_size: 1808
 file_type: image/jpeg
 image_metadata:

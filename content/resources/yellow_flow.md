@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/fd2e6de06ba5543b0d8980ec16105697_yellow_flow.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/fd2e6de06ba5543b0d8980ec16105697_yellow_flow.jpg
 file_size: 85703
 file_type: image/jpeg
 image_metadata:
