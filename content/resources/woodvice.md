@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/69da65319c11f32ff3a9772b66280859_WoodVice.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/69da65319c11f32ff3a9772b66280859_WoodVice.jpg
 file_size: 9204
 file_type: image/jpeg
 image_metadata:

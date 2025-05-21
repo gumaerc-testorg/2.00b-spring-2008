@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/ae95e166378ffd1e0d01a003b11c3abd_hp_present4.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/ae95e166378ffd1e0d01a003b11c3abd_hp_present4.jpg
 file_size: 78347
 file_type: image/jpeg
 image_metadata:

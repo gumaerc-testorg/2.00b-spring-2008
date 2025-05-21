@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
-file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/eb1e6cac49119c5e8250b8b41f7467a9_GameBoard.jpg
+file: /courses/2-00b-toy-product-design-spring-2008/eb1e6cac49119c5e8250b8b41f7467a9_GameBoard.jpg
 file_size: 11085
 file_type: image/jpeg
 image_metadata:
