@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2006.
-file: /courses/2-00b-toy-product-design-spring-2008/81c9da000c7bd38abadb396737301d89_hpbrush_icon2.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/81c9da000c7bd38abadb396737301d89_hpbrush_icon2.jpg
 file_size: 27410
 file_type: image/jpeg
 image_metadata:

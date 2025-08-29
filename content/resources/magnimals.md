@@ -6,7 +6,7 @@ description: 'Image accompanying student project: Magnimals. Magnimals are a set
 
   Design Team: Lucas Hernandez-Mena, Christina Wright, Tiffany Tseng, Amy Magnuson,
   Diane Rak and advisor David Wallace.'
-file: /courses/2-00b-toy-product-design-spring-2008/a85a873e017f2e6e38687ca5ea2162e8_magnimals.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/a85a873e017f2e6e38687ca5ea2162e8_magnimals.jpg
 file_size: 98777
 file_type: image/jpeg
 image_metadata:
