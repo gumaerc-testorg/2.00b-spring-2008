@@ -7,7 +7,7 @@ description: 'Image accompanying student project: Chanimals. Chanimals are Brazi
 
   Design Team: Martin McBrien, Lisa Witmer, Rachel Kolesnikou-Lindsey, Adrianne Hee
   and advisor Ethan Crumlin.'
-file: /courses/2-00b-toy-product-design-spring-2008/213cd80fe6796b3d92d307751d1cfede_chanimals.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/213cd80fe6796b3d92d307751d1cfede_chanimals.jpg
 file_size: 57925
 file_type: image/jpeg
 image_metadata:
