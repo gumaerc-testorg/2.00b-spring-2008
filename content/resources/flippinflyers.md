@@ -7,7 +7,7 @@ description: 'Image accompanying student project: Flippin'' Flyers. Flippin'' Fl
 
   Design Team: Joshua Jiricek, Maria Prus, Stephanie Yen, Francesca Demeo, Lisa Schlecht
   and advisor Andrew Carvey.'
-file: /courses/2-00b-toy-product-design-spring-2008/9c1fe386483073db25f4eda41cc2dfa1_flippinflyers.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/9c1fe386483073db25f4eda41cc2dfa1_flippinflyers.jpg
 file_size: 86781
 file_type: image/jpeg
 image_metadata:

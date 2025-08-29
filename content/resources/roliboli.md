@@ -8,7 +8,7 @@ description: 'Image accompanying student project: Roli Boli. Roli Boli are happy
 
   Design Team: Jennifer Sanchez, Nicolina Akraboff, Marty Skelton, Leslie Nachbar
   and adviser James Penn.'
-file: /courses/2-00b-toy-product-design-spring-2008/604886472792375ebd37c89ea00c85ce_roliboli.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/604886472792375ebd37c89ea00c85ce_roliboli.jpg
 file_size: 123964
 file_type: image/jpeg
 image_metadata:

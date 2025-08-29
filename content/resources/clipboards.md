@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2008.
-file: /courses/2-00b-toy-product-design-spring-2008/cc7778d725a6b2c0a82c078dce6bd782_ClipBoards.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/cc7778d725a6b2c0a82c078dce6bd782_ClipBoards.jpg
 file_size: 9435
 file_type: image/jpeg
 image_metadata:

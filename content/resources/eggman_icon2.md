@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thumbnail image accompanying student project from 2007.
-file: /courses/2-00b-toy-product-design-spring-2008/2f801eedbb3130f5f9e11967c33e9079_eggman_icon2.jpg
+file: /ol-ocw-studio-app/courses/2-00b-toy-product-design-spring-2008/2f801eedbb3130f5f9e11967c33e9079_eggman_icon2.jpg
 file_size: 1311
 file_type: image/jpeg
 image_metadata:
