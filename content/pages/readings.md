@@ -30,20 +30,20 @@ Bee, Helen L., and Denise Roberts Boyd. _The Developing Child_. 10th ed. Boston,
 Reference Documents
 -------------------
 
-Toys for Children Birth to Age 5 - The U.S. Consumer Product Safety Commission ([PDF - 1.1 MB](https://www.cpsc.gov/s3fs-public/2_0.pdf))
+Toys for Children Birth to Age 5 - The U.S. Consumer Product Safety Commission ({{% resource_link "2906ad7c-051a-4805-82a3-b7335de0a518" "PDF - 1.1 MB" %}})
 
-Toys for Children 6-12 - The U.S. Consumer Product Safety Commission ([PDF](https://www.cpsc.gov/s3fs-public/1.pdf))
+Toys for Children 6-12 - The U.S. Consumer Product Safety Commission ({{% resource_link "ac41edde-40ef-4476-af40-0565eeb61a5a" "PDF" %}})
 
-[Characteristics of Boys' and Girls' Toys](https://link.springer.com/article/10.1007/s11199-005-7729-0) - Judith Blakemore and Renee E. Centers
+{{% resource_link "2b54a785-a16f-45dd-a0e6-c1d4cc45aa73" "Characteristics of Boys' and Girls' Toys" %}} - Judith Blakemore and Renee E. Centers
 
-[Child Ergonomics](http://www.humanics-es.com/child-ergonomics.htm#introduction) - TU Delft (Dutch)
+{{% resource_link "5525752f-c733-4635-8190-b6e9eb1e802f" "Child Ergonomics" %}} - TU Delft (Dutch)
 
-[National Health and Safety Performance Standards](http://www.eric.ed.gov/ERICWebPortal/search/detailmini.jsp?_nfpb=true&_&ERICExtSearch_SearchValue_0=ED384408&ERICExtSearch_SearchType_0=no&accno=ED384408)
+{{% resource_link "90891245-30a8-4ae0-94b1-629df19fc0ef" "National Health and Safety Performance Standards" %}}
 
-[Transmedia Storytelling](http://www.geoffreylong.com/miscellany/actionfigures.php) - Geoffrey Long
+{{% resource_link "4ea3fc3b-967d-41f6-8a15-1c896fda41b6" "Transmedia Storytelling" %}} - Geoffrey Long
 
 The Value of Play - Fiona Rowlands
 
 Miller, Carolyn Handler. "Tackling Projects for Children." Chapter 9 in _Digital Storytelling: A Creator's Guide to Interactive Entertainment_. Burlington, MA: Focal Press, 2004. ISBN: 9780240805108. (Paperback)
 
-[Colour Lovers](http://www.colourlovers.com/)
+{{% resource_link "81947038-70e5-41c3-8547-7d4b9a4e517e" "Colour Lovers" %}}
