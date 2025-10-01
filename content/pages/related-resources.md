@@ -10,44 +10,44 @@ uid: 557eed89-1dc8-a975-6e2f-3d2fa9d83610
 ---
 ## Links of Interest
 
-[Invention at Play](http://inventionatplay.org/)
+{{% resource_link "a9dccb31-2cb9-4158-b7c3-edb0a2505473" "Invention at Play" %}}
 
-[History of Toys and Games](http://www.history.com/this-day-in-history/production-begins-on-toy-story) - A History Channel Special
+{{% resource_link "a85d736a-a3d6-44cb-962e-43a0187c9a07" "History of Toys and Games" %}} - A History Channel Special
 
-[Interview with Child Psychologist Brian Sutton-Smith](http://noorderlicht.vpro.nl/afleveringen/4264752/) - Watch the videos. Dr. Sutton-Smith's part is in English (with subtitles)
+{{% resource_link "1d8f2b4f-0351-4103-b90e-1e160ed58911" "Interview with Child Psychologist Brian Sutton-Smith" %}} - Watch the videos. Dr. Sutton-Smith's part is in English (with subtitles)
 
-[The Art and Craft of Toy Design](http://yg.typepad.com/makingtoys2/) - A blog for two classes at the Parsons New School for Design, "Making Wireless Plush Toys" and "Toy Concept Development and Design"
+{{% resource_link "96e4d9c1-2cd5-4783-95da-af893d54e576" "The Art and Craft of Toy Design" %}} - A blog for two classes at the Parsons New School for Design, "Making Wireless Plush Toys" and "Toy Concept Development and Design"
 
-[Hasbro Toys](http://www.hasbro.com/)
+{{% resource_link "71467a36-1f24-4180-94fb-352c26b0bed1" "Hasbro Toys" %}}
 
-[I Used To Believe](http://www.iusedtobelieve.com/) - "I Used To Believe is a funny and bizarre collection of ideas that adults thought were true when they were children."
+{{% resource_link "5310895b-f966-4077-bdff-f61dca04dd95" "I Used To Believe" %}} - "I Used To Believe is a funny and bizarre collection of ideas that adults thought were true when they were children."
 
-[The Sarut Group](http://www.thesarutgroup.com/)
+{{% resource_link "ee51ef94-84aa-4b24-978b-76d4ff881e76" "The Sarut Group" %}}
 
-[Perpetual Kid](http://www.perpetualkid.com/)
+{{% resource_link "ee971c52-d7a2-42e3-8081-15c3cc3518d3" "Perpetual Kid" %}}
 
-[Think Geek](http://www.thinkgeek.com/)
+{{% resource_link "04f875b2-fa8c-4e7f-863d-c01bd0f776c6" "Think Geek" %}}
 
-[ReadyMech Toys](http://www.readymech.com/) - Readymechs are free, flatpack toys for you to print and build.
+{{% resource_link "063c33fe-7e8e-45e0-8aeb-3cae1d63dbb5" "ReadyMech Toys" %}} - Readymechs are free, flatpack toys for you to print and build.
 
-[Papercraft - Make a working Optimus Prime](http://www.paperrobots1999.com/model04.html)
+{{% resource_link "3a079248-f51d-42c0-a51a-1fe9a510d56c" "Papercraft - Make a working Optimus Prime" %}}
 
-[The Monster Engine](https://www.amusingplanet.com/2011/04/monster-engine-childrens-drawings.html) - Children's Art… remastered
+{{% resource_link "4cc89e9b-b6f2-4e5f-8ee2-e30802febe35" "The Monster Engine" %}} - Children's Art… remastered
 
-[Taking Play Seriously](http://www.nytimes.com/2008/02/17/magazine/17play.html?_r=1&ex=1204088400&en=8d5f50950f5bed3b&ei=5070&emc=eta1&oref=slogin) (NY Times)
+{{% resource_link "14e1cfa1-74d6-4e5a-b249-b8b915964232" "Taking Play Seriously" %}} (NY Times)
 
-[Old-Fashioned Play](http://www.npr.org/templates/story/story.php?storyId=19212514&sc=emaf) (NPR)
+{{% resource_link "65734147-29c2-42f8-b9e9-d0b1b1a59716" "Old-Fashioned Play" %}} (NPR)
 
-[Creative Play](http://www.npr.org/templates/story/story.php?storyId=76838288&ps=bb1) (NPR)
+{{% resource_link "40ab0d70-8703-4c3f-94ef-262a027fbc7e" "Creative Play" %}} (NPR)
 
 ## Toy Product Design in the Media
 
-"[Get a B.A. in Toy Design](http://www.azcentral.com/ent/pop/articles/1206toydesign1206.html)" - Columbia News Service: December 2007
+"{{% resource_link "3d0dba6a-a697-48b7-87ec-757993b8d999" "Get a B.A. in Toy Design" %}}" - Columbia News Service: December 2007
 
-"[Toy Soldier](http://web.mit.edu/newsoffice/2007/toy-tt1212.html)" - MIT Tech Talk: December 2007
+"{{% resource_link "44708d8d-d36c-4a79-ba2a-936000847829" "Toy Soldier" %}}" - MIT Tech Talk: December 2007
 
-"[Toy Stories](https://www.psychologicalscience.org/observer/toy-stories)" - Association for Psychology Science (APS) Observer: December 2006
+"{{% resource_link "7f3173d1-70c1-4732-acfb-6bdf01dac77b" "Toy Stories" %}}" - Association for Psychology Science (APS) Observer: December 2006
 
-"[Toy Designers Make Brushing Fun](http://web.mit.edu/newsoffice/2006/toydesign-0524.html)" - MIT Tech Talk: May 24, 2006
+"{{% resource_link "400a82a9-efd9-465b-9dc0-b75b8706b161" "Toy Designers Make Brushing Fun" %}}" - MIT Tech Talk: May 24, 2006
 
-"[Bathroom Tech: Toothbrush Toys](http://web.archive.org/web/20100812221514/http://www.gearlog.com/2006/05/bathroom_tech_toothbrush_toys.php)" - GearLog: May 22, 2006
+"{{% resource_link "37fceed5-ad4c-41b7-8a3e-3b71d334f4bc" "Bathroom Tech: Toothbrush Toys" %}}" - GearLog: May 22, 2006

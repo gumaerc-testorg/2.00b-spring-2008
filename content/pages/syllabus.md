@@ -16,11 +16,11 @@ Labs: 1 session / week, 3 hours / session
 
 ## Overview
 
-Toy Product Design is a [MIT Public Service Center](https://pkgcenter.mit.edu/) learning design course offered in the Spring semester. This course is an introduction to the product design process with a focus on designing for play and entertainment. At the end of the course, students present their toy products at the Playsentations to toy designers, engineers, elementary school children and the MIT community.
+Toy Product Design is a {{% resource_link "87f17ccd-7478-4105-90c5-2d85f435ca45" "MIT Public Service Center" %}} learning design course offered in the Spring semester. This course is an introduction to the product design process with a focus on designing for play and entertainment. At the end of the course, students present their toy products at the Playsentations to toy designers, engineers, elementary school children and the MIT community.
 
 In this course, students work in small teams of 5-6 members to design and prototype new toys. Students work closely with a local sponsor and experienced mentors on a themed toy design project. Students will be introduced to the product development process, including: determining customer needs; brainstorming; estimation; sketching; sketch modeling; concept development; design aesthetics; detailed design; prototyping; and written, visual, and oral communication.
 
-For additional information about this course, see the [2.00B Web site](http://web.mit.edu/2.00b/www/index.html) .
+For additional information about this course, see the {{% resource_link "20ab5d52-80f6-4708-8ad8-946f9044e04f" "2.00B Web site" %}} .
 
 ## Almost Required Readings
 
@@ -115,7 +115,7 @@ Brainstorming and innovation
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 Lab 1
 {{< tdclose >}}{{< tdopen >}}
-[Hasbro](http://hasbro.com/) design and engineering tour
+{{% resource_link "744760a3-c852-4668-bb7f-11e7765d4ffb" "Hasbro" %}} design and engineering tour
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen colspan="2" >}}
 **Week 3**
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
